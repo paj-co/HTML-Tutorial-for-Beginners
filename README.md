@@ -1,6 +1,6 @@
-##HTML Tutorial for Beginners
+## HTML Tutorial for Beginners
 
-#####This is repo for all work related to HTML tutorial by **The Net Ninja** on the YouTube channel 
+##### This is repo for all work related to HTML tutorial by **The Net Ninja** on the YouTube channel 
 
 If you want to do tutorial yourself go to [The Net Ninja YouTube Channel](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc "To the site")
 
@@ -10,7 +10,7 @@ Here is my tutorial progress:
 * [x] HTML Tutorial for Beginners 02 - What is HTML?
 * [x] HTML Tutorial for Beginners 03 - HTML Syntax & Structure
 * [x] HTML Tutorial for Beginners 04 - Your First Web Page
-* [ ] HTML Tutorial for Beginners 05 - Head and Body Tag
+* [x] HTML Tutorial for Beginners 05 - Head and Body Tag
 * [ ] HTML Tutorial for Beginners 06 - Headings and Text
 * [ ] HTML Tutorial for Beginners 07 - Heading Structure
 * [ ] HTML Tutorial for Beginners 08 - Default Browser Styles
