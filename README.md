@@ -4,6 +4,7 @@
 
 If you want to do tutorial yourself go to [The Net Ninja YouTube Channel](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc "To the site")
 
+---
 Here is my tutorial progress:
 <!--Task list-->
 * [x] HTML Tutorial for Beginners 01 - HTML Introduction
@@ -12,7 +13,7 @@ Here is my tutorial progress:
 * [x] HTML Tutorial for Beginners 04 - Your First Web Page
 * [x] HTML Tutorial for Beginners 05 - Head and Body Tag
 * [x] HTML Tutorial for Beginners 06 - Headings and Text
-* [ ] HTML Tutorial for Beginners 07 - Heading Structure
+* [x] HTML Tutorial for Beginners 07 - Heading Structure
 * [ ] HTML Tutorial for Beginners 08 - Default Browser Styles
 * [ ] HTML Tutorial for Beginners 09 - The img Tag
 * [ ] HTML Tutorial for Beginners 10 - HTML Links
