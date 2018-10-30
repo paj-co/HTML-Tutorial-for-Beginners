@@ -14,8 +14,8 @@ Here is my tutorial progress:
 * [x] HTML Tutorial for Beginners 05 - Head and Body Tag
 * [x] HTML Tutorial for Beginners 06 - Headings and Text
 * [x] HTML Tutorial for Beginners 07 - Heading Structure
-* [ ] HTML Tutorial for Beginners 08 - Default Browser Styles
-* [ ] HTML Tutorial for Beginners 09 - The img Tag
+* [x] HTML Tutorial for Beginners 08 - Default Browser Styles
+* [x] HTML Tutorial for Beginners 09 - The img Tag
 * [ ] HTML Tutorial for Beginners 10 - HTML Links
 * [ ] HTML Tutorial for Beginners 11 - HTML Lists
 * [ ] HTML Tutorial for Beginners 12 - HR and BR Tags
