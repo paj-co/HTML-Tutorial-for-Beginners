@@ -7,7 +7,15 @@ h1{
 #header{
     color: #119b16;
     background: #ffc748;
-    width: 500px;
+    width: 100%;
+}
+#header h1{
+    color: #41239b;
+    background: #ffc748;
+    width: 100%;
+}
+#header img{
+    width: 100%;
 }
 
 #navigation{

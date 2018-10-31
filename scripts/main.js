@@ -1,0 +1,1 @@
+alert("Yo smelly Fish lovers, welcome to my website");
