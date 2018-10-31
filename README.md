@@ -23,4 +23,4 @@ Here is my tutorial progress:
 * [x] HTML Tutorial for Beginners 14 - ID's and Classes
 * [x] HTML Tutorial for Beginners 15 - Adding CSS to HTML
 * [x] HTML Tutorial for Beginners 16 - Adding JavaScript to HTML
-* [ ] HTML Tutorial for Beginners 17 - What To Do Next
+* [x] HTML Tutorial for Beginners 17 - What To Do Next
