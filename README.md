@@ -21,6 +21,6 @@ Here is my tutorial progress:
 * [x] HTML Tutorial for Beginners 12 - HR and BR Tags
 * [x] HTML Tutorial for Beginners 13 - The div Tag
 * [x] HTML Tutorial for Beginners 14 - ID's and Classes
-* [ ] HTML Tutorial for Beginners 15 - Adding CSS to HTML
+* [x] HTML Tutorial for Beginners 15 - Adding CSS to HTML
 * [ ] HTML Tutorial for Beginners 16 - Adding JavaScript to HTML
 * [ ] HTML Tutorial for Beginners 17 - What To Do Next

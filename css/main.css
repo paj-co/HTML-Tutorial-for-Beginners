@@ -1,0 +1,21 @@
+h1{
+    color: #4750ff;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+#header{
+    color: #119b16;
+    background: #ffc748;
+    width: 500px;
+}
+
+#navigation{
+    color: blueviolet;
+    background: #feffa6;
+}
+
+#types-of-fish{
+    color: black;
+    background: #b4ecff;
+}
